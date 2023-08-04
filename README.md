@@ -59,6 +59,7 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - [Pacote Office 2016 - Fundação Bradesco](https://abrir.link/D3Nru)
 - [Word 2010 - Básico - Pensar Cursos](https://abrir.link/jc86Z)
 
+---
 
 ### 🚀 Programação Avançada
 
