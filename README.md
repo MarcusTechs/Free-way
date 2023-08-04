@@ -13,8 +13,6 @@ Detalhes Essenciais: ℹ️ Cada curso apresenta informações essenciais, inclu
 
 Avaliações e Feedback: 🗣️ Compartilhe suas avaliações sobre cursos que você completou e mergulhe nos comentários de outros alunos para tomar decisões educadas.
 
-Busca Fácil: 🔎 Use nossa ferramenta de busca intuitiva para encontrar cursos que correspondam aos seus interesses e metas pessoais.
-
 Destaques Especiais: 🌟 Fique de olho em cursos premium que ocasionalmente oferecemos gratuitamente por um período limitado. Uma oportunidade imperdível!
 
 Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional sem limites. O aprendizado transformador está a um clique de distância! 🚀🎓
