@@ -119,6 +119,6 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 ---
 
 ### 🌐 Inglês
-- [Inglês Completo](https://kultivi.com/cursos/idiomas/ingles)
+- [Inglês Completo - kultivi](https://kultivi.com/cursos/idiomas/ingles)
 
 
