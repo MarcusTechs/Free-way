@@ -108,7 +108,9 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 
 - [Administração de Vendas - Pensar cursos](https://www.pensarcursos.com.br/matricula/administracao-de-vendas)
 
+---
 
-
+### 🌐 Inglês
+- [Inglês Completo](https://kultivi.com/cursos/idiomas/ingles)
 
 
