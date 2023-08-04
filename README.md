@@ -35,13 +35,13 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - https://encurtador.com.br/beKX3 (Geração Crescer)
 - https://encurtador.com.br/FHS07 (Minicurso Desenvolvimento Full Stack - Pensar cursos)
 - https://abrir.link/OfE7a (Fundamentos de Lógica de Programação - Fundação Bradesco)
-- https://abre.ai/gxs2 (Capacitação em Lógica de Programação - Pensar cursos)
-- https://abre.ai/gxs4 (Analista de Dados - Geração crescer)
+- https://abrir.link/dpcXl (Capacitação em Lógica de Programação - Pensar cursos)
+- https://abrir.link/yDK8H (Analista de Dados - Geração crescer)
 
 📊 Cursos de Office (Básico ao Avançado):
-- https://abre.ai/gxsu (Excel básico - Pensar Cursos)
-- https://abre.ai/gxsF (Excel na Prática - Fundação Bradesco)
-- https://abre.ai/gxsI (Microsoft Excel 2016 Intermediário - Fundação Bradesco)
-- https://abre.ai/gxsR (Microsoft Word 2016 - Básico)
-- https://abre.ai/gxsK (Microsoft Word 2016 - Avançado)
+- https://abrir.link/7viSC (Excel básico - Pensar Cursos)
+- https://abrir.link/nxyCt (Excel na Prática - Fundação Bradesco)
+- https://abrir.link/oRhFC (Microsoft Excel 2016 Intermediário - Fundação Bradesco)
+- https://abrir.link/YCBab (Microsoft Excel 2016 Avançado - Fundação Bradesco)
+- https://abrir.link/F87cp (Combo Excel 2013 Básico, Intermediário e Avançado - Pensar cursos)
 
