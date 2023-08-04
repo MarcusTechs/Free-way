@@ -28,17 +28,17 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - https://encurtador.com.br/crxT0 (Plataforma Cursa)
 
 💻 Fundamentos Hardware e Software:
-https://encurtador.com.br/frxN4 (Fundação Bradesco)
-https://abre.ai/gxsj (Plataforma Pensar cursos)
+- https://encurtador.com.br/frxN4 (Fundação Bradesco)
+- https://abre.ai/gxsj (Plataforma Pensar cursos)
 
 👨‍💻 Introdução à Programação:
-https://abre.ai/gxsp (Geração Crescer)
-https://abre.ai/gxsx (Minicurso Desenvolvimento Full Stack - Pensar cursos)
-https://abre.ai/gxsB (Fundamentos de Lógica de Programação - Fundação Bradesco)
+- https://abre.ai/gxsp (Geração Crescer)
+- https://abre.ai/gxsx (Minicurso Desenvolvimento Full Stack - Pensar cursos)
+- https://abre.ai/gxsB (Fundamentos de Lógica de Programação - Fundação Bradesco)
 
 📊 Cursos de Office (Básico ao Avançado):
-https://abre.ai/gxsu (Excel básico - Pensar Cursos)
-https://abre.ai/gxsF (Excel na Prática - Fundação Bradesco)
-https://abre.ai/gxsI (Microsoft Excel 2016 Intermediário - Fundação Bradesco)
-https://abre.ai/gxsK (Microsoft Word 2016 - Avançado)
+- https://abre.ai/gxsu (Excel básico - Pensar Cursos)
+- https://abre.ai/gxsF (Excel na Prática - Fundação Bradesco)
+- https://abre.ai/gxsI (Microsoft Excel 2016 Intermediário - Fundação Bradesco)
+- https://abre.ai/gxsK (Microsoft Word 2016 - Avançado)
 
