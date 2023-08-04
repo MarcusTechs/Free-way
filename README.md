@@ -35,6 +35,8 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - https://abre.ai/gxsp (Geração Crescer)
 - https://abre.ai/gxsx (Minicurso Desenvolvimento Full Stack - Pensar cursos)
 - https://abre.ai/gxsB (Fundamentos de Lógica de Programação - Fundação Bradesco)
+- https://abre.ai/gxs2 (Capacitação em Lógica de Programação - Pensar cursos)
+- https://abre.ai/gxs4 (Analista de Dados - Geração crescer)
 
 📊 Cursos de Office (Básico ao Avançado):
 - https://abre.ai/gxsu (Excel básico - Pensar Cursos)
