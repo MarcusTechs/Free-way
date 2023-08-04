@@ -92,8 +92,8 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 - [Introdução a Redes de Computadores - Fundação Bradesco](https://www.ev.org.br/cursos/introducao-a-redes-de-computadores)
 - [MikroTik para Iniciantes - Redes Brasil](https://www.redesbrasil.com/course/curso-mikrotik-iniciante/)
 - [e-MikroTik Fundamental - Entelco](https://www.entelco.com.br/curso-mikrotik-gratis)
-- [Conheça o Wi-Fi 6](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MDQ3Jmt0X2RpZGF4aXM9dG9w)
-- [Fundamentos: redes EPON e GPON](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD00NzIzJmt0X2RpZGF4aXM9dG9w)
+- [Conheça o Wi-Fi 6 - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MDQ3Jmt0X2RpZGF4aXM9dG9w)
+- [Fundamentos: redes EPON e GPON - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD00NzIzJmt0X2RpZGF4aXM9dG9w)
 
 ---
 
