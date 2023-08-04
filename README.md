@@ -51,51 +51,51 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 
 ### 📊 Cursos de Office (Básico ao Avançado):
 
-- [Excel Básico - Pensar Cursos](https://abrir.link/7viSC)
-- [Excel na Prática - Fundação Bradesco](https://abrir.link/nxyCt)
-- [Microsoft Excel 2016 Intermediário - Fundação Bradesco](https://abrir.link/oRhFC)
-- [Microsoft Excel 2016 Avançado - Fundação Bradesco](https://abrir.link/YCBab)
-- [Combo Excel 2013 Básico, Intermediário e Avançado - Pensar Cursos](https://abrir.link/F87cp)
-- [Pacote Office 2016 - Fundação Bradesco](https://abrir.link/D3Nru)
-- [Word 2010 - Básico - Pensar Cursos](https://abrir.link/jc86Z)
+- [Excel Básico - Pensar Cursos](https://www.pensarcursos.com.br/matricula/excel-basico)
+- [Excel na Prática - Fundação Bradesco](https://www.ev.org.br/cursos/excel-na-pratica)
+- [Microsoft Excel 2016 Intermediário - Fundação Bradesco](https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario)
+- [Microsoft Excel 2016 Avançado - Fundação Bradesco](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado)
+- [Combo Excel 2013 Básico, Intermediário e Avançado - Pensar Cursos](https://www.pensarcursos.com.br/matricula/excel-combo)
+- [Pacote Office 2016 - Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/pacote-office-2016)
+- [Word 2010 - Básico - Pensar Cursos](https://www.pensarcursos.com.br/matricula/word-basico)
 
 ---
 
 ### 🚀 Programação Avançada
 
-- [Introdução aos Algoritmos de Graduação - Udacity](https://abrir.link/cti4y)
-- [Análise de Dados no Power BI - Fundação Bradesco](https://abrir.link/ttoO9)
+- [Introdução aos Algoritmos de Graduação - Udacity](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
+- [Análise de Dados no Power BI - Fundação Bradesco](https://www.ev.org.br/cursos/analise-de-dados-no-power-bi)
 
 ---
 
 ### ☕ Java
 
-- [Linguagem de Programação Java Básico - Fundação Bradesco](https://abrir.link/xi0Vw)
-- [Linguagem de Programação Java - Fundação Bradesco](https://abrir.link/qmSiS)
-- [Linguagem de Programação Java Avançado - Bradesco](https://abrir.link/St4gy)
-- [Desenvolvedor Web Java - Udacity](https://abrir.link/jH0OF)
+- [Linguagem de Programação Java Básico - Fundação Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-basico)
+- [Linguagem de Programação Java - Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-java)
+- [Linguagem de Programação Java Avançado - Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-avancado)
+- [Desenvolvedor Web Java - Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
 
 ---
 
 ### 🔌 Redes
 
-- [Introdução a Roteamento - Intelbras Itec](https://abrir.link/6JnzP)
-- [Redes EPON - Intelbras Itec](https://abrir.link/B0S6R)
-- [Introdução a Redes de Computadores - Fundação Bradesco](https://abrir.link/EBxsM)
-- [MikroTik para Iniciantes - Redes Brasil](https://abrir.link/fYfvR)
-- [e-MikroTik Fundamental - Entelco](https://abrir.link/tsJHS)
+- [Introdução a Roteamento - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MTY3Jmt0X2RpZGF4aXM9dG9w)
+- [Redes EPON - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby90cmlsaGFzX3ZpZXcuYXNwJlRyaWxoYUlEPTExNjcma3RfZGlkYXhpcz10b3A=)
+- [Introdução a Redes de Computadores - Fundação Bradesco](https://www.ev.org.br/cursos/introducao-a-redes-de-computadores)
+- [MikroTik para Iniciantes - Redes Brasil](https://www.redesbrasil.com/course/curso-mikrotik-iniciante/)
+- [e-MikroTik Fundamental - Entelco](https://www.entelco.com.br/curso-mikrotik-gratis)
 
 ---
 
 ### 📊 SQL
 
-- [SQL Básico ao Avançado - Bluesoft](https://abrir.link/enoe5)
+- [SQL Básico ao Avançado - Bluesoft](https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS)
 
 ---
 
 ### 📈 Marketing Digital
 
-- [Fundamentos Marketing Digital - Google Atelie](https://abrir.link/MtQr3)
+- [Fundamentos Marketing Digital - Google Atelie](https://skillshop.exceedlms.com/student/collection/730709-digital-marketing)
 
 
 
