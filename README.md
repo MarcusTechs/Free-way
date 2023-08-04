@@ -94,6 +94,7 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 - [e-MikroTik Fundamental - Entelco](https://www.entelco.com.br/curso-mikrotik-gratis)
 - [Conheça o Wi-Fi 6 - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MDQ3Jmt0X2RpZGF4aXM9dG9w)
 - [Fundamentos: redes EPON e GPON - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD00NzIzJmt0X2RpZGF4aXM9dG9w)
+- [Rede de computadores - Curso em video](https://www.cursoemvideo.com/curso/redes-de-computadores/)
 
 ---
 
