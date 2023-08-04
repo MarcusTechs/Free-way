@@ -19,6 +19,13 @@ Destaques Especiais: 🌟 Fique de olho em cursos premium que ocasionalmente ofe
 Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional sem limites. O aprendizado transformador está a um clique de distância! 🚀🎓
 
 
+## Seja Parte do Nosso Projeto 🌱
+Estamos prestes a lançar nossa própria plataforma de cursos gratuitos! Se você enxerga valor nisso, considere apoiar financeiramente através do Pix: marcusertech@gmail.com
+
+Sua contribuição será fundamental para o desenvolvimento dessa plataforma que está nascendo para beneficiar a todos. Junte-se a nós nessa jornada de aprendizado e compartilhamento de conhecimento! 🚀
+
+---
+
 # Cursos
 
 
