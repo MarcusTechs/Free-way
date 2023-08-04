@@ -46,6 +46,7 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - [Analista de Dados - Geração Crescer](https://cursos.geracaocrescer.org.br/acesso/?_gl=1*j0rd0o*_ga*MjEwMDIzOTA1NS4xNjkxMTQ4MzIw*_ga_LDVM7V2ZPE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..*_ga_ZLXYWEC0TE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..&_ga=2.198609899.510224580.1691148320-2100239055.1691148320)
 - [Introdução à Programação - Udacity](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
 - [Introdução a Algoritmos](https://www.pensarcursos.com.br/curso/introducao-a-algoritmos)
+- [Fundamentos Full Stack](https://www.udacity.com/course/full-stack-foundations--ud088)
 
 ---
 
@@ -84,6 +85,8 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - [Introdução a Redes de Computadores - Fundação Bradesco](https://www.ev.org.br/cursos/introducao-a-redes-de-computadores)
 - [MikroTik para Iniciantes - Redes Brasil](https://www.redesbrasil.com/course/curso-mikrotik-iniciante/)
 - [e-MikroTik Fundamental - Entelco](https://www.entelco.com.br/curso-mikrotik-gratis)
+- [Conheça o Wi-Fi 6](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MDQ3Jmt0X2RpZGF4aXM9dG9w)
+- [Fundamentos: redes EPON e GPON](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD00NzIzJmt0X2RpZGF4aXM9dG9w)
 
 ---
 
@@ -96,6 +99,16 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 ### 📈 Marketing Digital
 
 - [Fundamentos Marketing Digital - Google Atelie](https://skillshop.exceedlms.com/student/collection/730709-digital-marketing)
+- [Analista de Marketing](https://www.pensarcursos.com.br/matricula/analista-de-marketing)
+- [Marketing digital para sua empresa - Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/marketing-digital-para-sua-empresa-equipe-comercial,12e7125576a4e710VgnVCM100000d701210aRCRD)
+- 
+
+---
+
+### 💼 Administração / Financeiro
+
+- [Administração de Vendas - Pensar cursos](https://www.pensarcursos.com.br/matricula/administracao-de-vendas)
+
 
 
 
