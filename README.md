@@ -108,7 +108,8 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 
 ### 💼 Administração / Financeiro
 
-
+- [Equilíbrio Fiscal](https://www.escolavirtual.gov.br/curso/261)
+- [Matemática Financeira](https://www.escolavirtual.gov.br/curso/93)
 
 ---
 
