@@ -40,5 +40,6 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - https://abre.ai/gxsu (Excel básico - Pensar Cursos)
 - https://abre.ai/gxsF (Excel na Prática - Fundação Bradesco)
 - https://abre.ai/gxsI (Microsoft Excel 2016 Intermediário - Fundação Bradesco)
+- https://abre.ai/gxsR (Microsoft Word 2016 - Básico)
 - https://abre.ai/gxsK (Microsoft Word 2016 - Avançado)
 
