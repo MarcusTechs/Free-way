@@ -29,12 +29,12 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 
 💻 Fundamentos Hardware e Software:
 - https://encurtador.com.br/frxN4 (Fundação Bradesco)
-- https://abre.ai/gxsj (Plataforma Pensar cursos)
+- https://encurtador.com.br/cjpRW (Plataforma Pensar cursos)
 
 👨‍💻 Introdução à Programação:
 - https://encurtador.com.br/beKX3 (Geração Crescer)
-- https://abre.ai/gxsx (Minicurso Desenvolvimento Full Stack - Pensar cursos)
-- https://abre.ai/gxsB (Fundamentos de Lógica de Programação - Fundação Bradesco)
+- https://encurtador.com.br/FHS07 (Minicurso Desenvolvimento Full Stack - Pensar cursos)
+- https://abrir.link/OfE7a (Fundamentos de Lógica de Programação - Fundação Bradesco)
 - https://abre.ai/gxs2 (Capacitação em Lógica de Programação - Pensar cursos)
 - https://abre.ai/gxs4 (Analista de Dados - Geração crescer)
 
