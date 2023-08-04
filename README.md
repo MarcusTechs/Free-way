@@ -19,15 +19,23 @@ Destaques Especiais: 🌟 Fique de olho em cursos premium que ocasionalmente ofe
 Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional sem limites. O aprendizado transformador está a um clique de distância! 🚀🎓
 
 
-# - Informatica básica:
+- Informatica básica:
 https://encurtador.com.br/FPQ07 (Pensar Cursos)
 https://encurtador.com.br/ejvBR (Plataforma IFRS ead)
 https://encurtador.com.br/crxT0 (Plataforma Cursa)
 
-
-# - Fundamentos hardware e software:
+- Fundamentos hardware e software:
 https://encurtador.com.br/frxN4 (Fundação Bradesco)
 https://abre.ai/gxsj (Plataforma Pensar cursos)
 
-# - Introdução a programação:
+- Introdução a programação:
 https://abre.ai/gxsp (Geração Crescer)
+https://abre.ai/gxsx (Minicurso Desenvolvimento Full Stack - Pensar cursos)
+https://abre.ai/gxsB (Fundamentos de Lógica de Programação - Fundação Bradesco)
+
+- Office (Básico ao avançado)
+https://abre.ai/gxsu (Excel básico - Pensar Cursos)
+https://abre.ai/gxsF (Excel na Prática - Fundação Bradesco)
+https://abre.ai/gxsI (Microsoft Excel 2016 Intermediário - Fundação Bradesco)
+https://abre.ai/gxsK (Microsoft Word 2016 - Avançado)
+
