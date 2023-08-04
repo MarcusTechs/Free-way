@@ -32,7 +32,7 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 - https://abre.ai/gxsj (Plataforma Pensar cursos)
 
 👨‍💻 Introdução à Programação:
-- https://abre.ai/gxsp (Geração Crescer)
+- https://shre.ink/aTcK (Geração Crescer)
 - https://abre.ai/gxsx (Minicurso Desenvolvimento Full Stack - Pensar cursos)
 - https://abre.ai/gxsB (Fundamentos de Lógica de Programação - Fundação Bradesco)
 - https://abre.ai/gxs2 (Capacitação em Lógica de Programação - Pensar cursos)
