@@ -41,6 +41,7 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 
 - [Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software)
 - [Plataforma Pensar Cursos](https://www.pensarcursos.com.br/matricula/curso-fundamentos-de-arquitetura-de-software)
+- [Hardware - Curso em video](https://www.cursoemvideo.com/curso/hardware/)
 
 ---
 
@@ -78,10 +79,11 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 
 ### ☕ Java
 
-- [Linguagem de Programação Java Básico - Fundação Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-basico)
-- [Linguagem de Programação Java - Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-java)
-- [Linguagem de Programação Java Avançado - Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-avancado)
+- [Java Básico - Fundação Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-basico)
+- [Java - Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-java)
+- [Java Avançado - Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-avancado)
 - [Desenvolvedor Web Java - Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
+- [Java - 40 Horas - Curso em video](https://www.cursoemvideo.com/curso/java-basico/)
 
 ---
 
