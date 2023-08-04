@@ -19,7 +19,7 @@ Destaques Especiais: 🌟 Fique de olho em cursos premium que ocasionalmente ofe
 Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional sem limites. O aprendizado transformador está a um clique de distância! 🚀🎓
 
 
-
+# Cursos
 
 
 📚 Cursos de Informática Básica:
