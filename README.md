@@ -24,28 +24,28 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 
 ### 📚 Cursos de Informática Básica:
 
-- [Pensar Cursos](https://encurtador.com.br/FPQ07)
-- [Plataforma IFRS EAD](https://encurtador.com.br/ejvBR)
-- [Plataforma Cursa](https://encurtador.com.br/crxT0)
+- [Pensar Cursos](https://www.pensarcursos.com.br/entrar/aHR0cHM6Ly93d3cucGVuc2FyY3Vyc29zLmNvbS5ici9tYXRyaWN1bGEvaW5mb3JtYXRpY2EtMTE5Mg==)
+- [Plataforma IFRS EAD](https://moodle.ifrs.edu.br/login/index.php)
+- [Plataforma Cursa](https://cursa.com.br/home/course/curso-de-inform%C3%A1tica-b%C3%A1sica-completo/33)
 
 ---
 
 ### 💻 Fundamentos Hardware e Software:
 
-- [Fundação Bradesco](https://encurtador.com.br/frxN4)
-- [Plataforma Pensar Cursos](https://encurtador.com.br/cjpRW)
+- [Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software)
+- [Plataforma Pensar Cursos](https://www.pensarcursos.com.br/matricula/curso-fundamentos-de-arquitetura-de-software)
 
 ---
 
 ### 👨‍💻 Introdução à Programação:
 
-- [Geração Crescer](https://encurtador.com.br/beKX3)
-- [Minicurso Desenvolvimento Full Stack - Pensar Cursos](https://encurtador.com.br/FHS07)
-- [Fundamentos de Lógica de Programação - Fundação Bradesco](https://abrir.link/OfE7a)
-- [Capacitação em Lógica de Programação - Pensar Cursos](https://abrir.link/dpcXl)
-- [Analista de Dados - Geração Crescer](https://abrir.link/yDK8H)
-- [Introdução à Programação - Udacity](https://abrir.link/wIhoy)
-- [Introdução a Algoritmos](https://abrir.link/Wf2in)
+- [Geração Crescer](https://cursos.geracaocrescer.org.br/acesso/?_gl=1*mtq5y8*_ga*MjEwMDIzOTA1NS4xNjkxMTQ4MzIw*_ga_LDVM7V2ZPE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..*_ga_ZLXYWEC0TE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..&_ga=2.23555838.510224580.1691148320-2100239055.1691148320)
+- [Minicurso Desenvolvimento Full Stack - Pensar Cursos](https://www.pensarcursos.com.br/matricula/minicurso-desenvolvimento-full-stack)
+- [Fundamentos de Lógica de Programação - Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao)
+- [Capacitação em Lógica de Programação - Pensar Cursos](https://www.pensarcursos.com.br/matricula/capacitacao-em-logica-de-programacao)
+- [Analista de Dados - Geração Crescer](https://cursos.geracaocrescer.org.br/acesso/?_gl=1*j0rd0o*_ga*MjEwMDIzOTA1NS4xNjkxMTQ4MzIw*_ga_LDVM7V2ZPE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..*_ga_ZLXYWEC0TE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..&_ga=2.198609899.510224580.1691148320-2100239055.1691148320)
+- [Introdução à Programação - Udacity](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
+- [Introdução a Algoritmos](https://www.pensarcursos.com.br/curso/introducao-a-algoritmos)
 
 ---
 
