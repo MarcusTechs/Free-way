@@ -31,7 +31,6 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 
 ### 📚 Cursos de Informática Básica:
 
-- [Pensar Cursos](https://www.pensarcursos.com.br/entrar/aHR0cHM6Ly93d3cucGVuc2FyY3Vyc29zLmNvbS5ici9tYXRyaWN1bGEvaW5mb3JtYXRpY2EtMTE5Mg==)
 - [Plataforma IFRS EAD](https://moodle.ifrs.edu.br/login/index.php)
 - [Plataforma Cursa](https://cursa.com.br/home/course/curso-de-inform%C3%A1tica-b%C3%A1sica-completo/33)
 
@@ -40,7 +39,6 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 ### 💻 Fundamentos Hardware e Software:
 
 - [Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software)
-- [Plataforma Pensar Cursos](https://www.pensarcursos.com.br/matricula/curso-fundamentos-de-arquitetura-de-software)
 - [Hardware - Curso em video](https://www.cursoemvideo.com/curso/hardware/)
 
 ---
@@ -48,25 +46,19 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 ### 👨‍💻 Introdução à Programação:
 
 - [Geração Crescer](https://cursos.geracaocrescer.org.br/acesso/?_gl=1*mtq5y8*_ga*MjEwMDIzOTA1NS4xNjkxMTQ4MzIw*_ga_LDVM7V2ZPE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..*_ga_ZLXYWEC0TE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..&_ga=2.23555838.510224580.1691148320-2100239055.1691148320)
-- [Minicurso Desenvolvimento Full Stack - Pensar Cursos](https://www.pensarcursos.com.br/matricula/minicurso-desenvolvimento-full-stack)
 - [Fundamentos de Lógica de Programação - Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao)
-- [Capacitação em Lógica de Programação - Pensar Cursos](https://www.pensarcursos.com.br/matricula/capacitacao-em-logica-de-programacao)
 - [Analista de Dados - Geração Crescer](https://cursos.geracaocrescer.org.br/acesso/?_gl=1*j0rd0o*_ga*MjEwMDIzOTA1NS4xNjkxMTQ4MzIw*_ga_LDVM7V2ZPE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..*_ga_ZLXYWEC0TE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..&_ga=2.198609899.510224580.1691148320-2100239055.1691148320)
 - [Introdução à Programação - Udacity](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
-- [Introdução a Algoritmos](https://www.pensarcursos.com.br/curso/introducao-a-algoritmos)
 - [Fundamentos Full Stack](https://www.udacity.com/course/full-stack-foundations--ud088)
 
 ---
 
 ### 📊 Cursos de Office (Básico ao Avançado):
 
-- [Excel Básico - Pensar Cursos](https://www.pensarcursos.com.br/matricula/excel-basico)
 - [Excel na Prática - Fundação Bradesco](https://www.ev.org.br/cursos/excel-na-pratica)
 - [Microsoft Excel 2016 Intermediário - Fundação Bradesco](https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario)
 - [Microsoft Excel 2016 Avançado - Fundação Bradesco](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado)
-- [Combo Excel 2013 Básico, Intermediário e Avançado - Pensar Cursos](https://www.pensarcursos.com.br/matricula/excel-combo)
 - [Pacote Office 2016 - Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/pacote-office-2016)
-- [Word 2010 - Básico - Pensar Cursos](https://www.pensarcursos.com.br/matricula/word-basico)
 
 ---
 
@@ -109,7 +101,6 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 ### 📈 Marketing Digital
 
 - [Fundamentos Marketing Digital - Google Atelie](https://skillshop.exceedlms.com/student/collection/730709-digital-marketing)
-- [Analista de Marketing](https://www.pensarcursos.com.br/matricula/analista-de-marketing)
 - [Marketing digital para sua empresa - Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/marketing-digital-para-sua-empresa-equipe-comercial,12e7125576a4e710VgnVCM100000d701210aRCRD)
 - [Trade marketing](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/trade-marketing,90fea2a16b76e710VgnVCM100000d701210aRCRD)
 
@@ -117,7 +108,7 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 
 ### 💼 Administração / Financeiro
 
-- [Administração de Vendas - Pensar cursos](https://www.pensarcursos.com.br/matricula/administracao-de-vendas)
+
 
 ---
 
