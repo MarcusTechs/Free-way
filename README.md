@@ -23,9 +23,9 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 
 
 📚 Cursos de Informática Básica:
-https://encurtador.com.br/FPQ07 (Pensar Cursos)
-https://encurtador.com.br/ejvBR (Plataforma IFRS ead)
-https://encurtador.com.br/crxT0 (Plataforma Cursa)
+- https://encurtador.com.br/FPQ07 (Pensar Cursos)
+- https://encurtador.com.br/ejvBR (Plataforma IFRS ead)
+- https://encurtador.com.br/crxT0 (Plataforma Cursa)
 
 💻 Fundamentos Hardware e Software:
 https://encurtador.com.br/frxN4 (Fundação Bradesco)
