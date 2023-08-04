@@ -22,26 +22,80 @@ Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional
 # Cursos
 
 
-📚 Cursos de Informática Básica:
-- https://encurtador.com.br/FPQ07 (Pensar Cursos)
-- https://encurtador.com.br/ejvBR (Plataforma IFRS ead)
-- https://encurtador.com.br/crxT0 (Plataforma Cursa)
+### 📚 Cursos de Informática Básica:
 
-💻 Fundamentos Hardware e Software:
-- https://encurtador.com.br/frxN4 (Fundação Bradesco)
-- https://encurtador.com.br/cjpRW (Plataforma Pensar cursos)
+- [Pensar Cursos](https://encurtador.com.br/FPQ07)
+- [Plataforma IFRS EAD](https://encurtador.com.br/ejvBR)
+- [Plataforma Cursa](https://encurtador.com.br/crxT0)
 
-👨‍💻 Introdução à Programação:
-- https://encurtador.com.br/beKX3 (Geração Crescer)
-- https://encurtador.com.br/FHS07 (Minicurso Desenvolvimento Full Stack - Pensar cursos)
-- https://abrir.link/OfE7a (Fundamentos de Lógica de Programação - Fundação Bradesco)
-- https://abrir.link/dpcXl (Capacitação em Lógica de Programação - Pensar cursos)
-- https://abrir.link/yDK8H (Analista de Dados - Geração crescer)
+---
 
-📊 Cursos de Office (Básico ao Avançado):
-- https://abrir.link/7viSC (Excel básico - Pensar Cursos)
-- https://abrir.link/nxyCt (Excel na Prática - Fundação Bradesco)
-- https://abrir.link/oRhFC (Microsoft Excel 2016 Intermediário - Fundação Bradesco)
-- https://abrir.link/YCBab (Microsoft Excel 2016 Avançado - Fundação Bradesco)
-- https://abrir.link/F87cp (Combo Excel 2013 Básico, Intermediário e Avançado - Pensar cursos)
+### 💻 Fundamentos Hardware e Software:
+
+- [Fundação Bradesco](https://encurtador.com.br/frxN4)
+- [Plataforma Pensar Cursos](https://encurtador.com.br/cjpRW)
+
+---
+
+### 👨‍💻 Introdução à Programação:
+
+- [Geração Crescer](https://encurtador.com.br/beKX3)
+- [Minicurso Desenvolvimento Full Stack - Pensar Cursos](https://encurtador.com.br/FHS07)
+- [Fundamentos de Lógica de Programação - Fundação Bradesco](https://abrir.link/OfE7a)
+- [Capacitação em Lógica de Programação - Pensar Cursos](https://abrir.link/dpcXl)
+- [Analista de Dados - Geração Crescer](https://abrir.link/yDK8H)
+- [Introdução à Programação - Udacity](https://abrir.link/wIhoy)
+- [Introdução a Algoritmos](https://abrir.link/Wf2in)
+
+---
+
+### 📊 Cursos de Office (Básico ao Avançado):
+
+- [Excel Básico - Pensar Cursos](https://abrir.link/7viSC)
+- [Excel na Prática - Fundação Bradesco](https://abrir.link/nxyCt)
+- [Microsoft Excel 2016 Intermediário - Fundação Bradesco](https://abrir.link/oRhFC)
+- [Microsoft Excel 2016 Avançado - Fundação Bradesco](https://abrir.link/YCBab)
+- [Combo Excel 2013 Básico, Intermediário e Avançado - Pensar Cursos](https://abrir.link/F87cp)
+- [Pacote Office 2016 - Fundação Bradesco](https://abrir.link/D3Nru)
+- [Word 2010 - Básico - Pensar Cursos](https://abrir.link/jc86Z)
+
+
+### 🚀 Programação Avançada
+
+- [Introdução aos Algoritmos de Graduação - Udacity](https://abrir.link/cti4y)
+- [Análise de Dados no Power BI - Fundação Bradesco](https://abrir.link/ttoO9)
+
+---
+
+### ☕ Java
+
+- [Linguagem de Programação Java Básico - Fundação Bradesco](https://abrir.link/xi0Vw)
+- [Linguagem de Programação Java - Fundação Bradesco](https://abrir.link/qmSiS)
+- [Linguagem de Programação Java Avançado - Bradesco](https://abrir.link/St4gy)
+- [Desenvolvedor Web Java - Udacity](https://abrir.link/jH0OF)
+
+---
+
+### 🔌 Redes
+
+- [Introdução a Roteamento - Intelbras Itec](https://abrir.link/6JnzP)
+- [Redes EPON - Intelbras Itec](https://abrir.link/B0S6R)
+- [Introdução a Redes de Computadores - Fundação Bradesco](https://abrir.link/EBxsM)
+- [MikroTik para Iniciantes - Redes Brasil](https://abrir.link/fYfvR)
+- [e-MikroTik Fundamental - Entelco](https://abrir.link/tsJHS)
+
+---
+
+### 📊 SQL
+
+- [SQL Básico ao Avançado - Bluesoft](https://abrir.link/enoe5)
+
+---
+
+### 📈 Marketing Digital
+
+- [Fundamentos Marketing Digital - Google Atelie](https://abrir.link/MtQr3)
+
+
+
 
