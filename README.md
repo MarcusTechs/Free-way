@@ -5,11 +5,12 @@ Bem-vindo ao FreeWay! Aqui, a educação é gratuita e ilimitada! 🌟 Descubra 
 # Objetivo:
 No FreeWay, nosso objetivo é simples e inspirador: tornar o aprendizado acessível para todos, em qualquer lugar. Acreditamos que o conhecimento é um direito fundamental, não um privilégio, e estamos empenhados em ajudá-lo a trilhar seu próprio caminho educacional, sem barreiras financeiras. 🌎📖
 
+
 # Recursos:
 
 Variedade de Cursos: 📋 Explore nossa lista de cursos gratuitos, criando um caminho na área da tecnologia.
 
-Certificado: Todos os cursos tem certificado gratuito✔️
+Certificado: ✔️ Todos os cursos citados tem certificado gratuito.
 
 Avaliações e Feedback: 🗣️ Compartilhe suas avaliações sobre cursos que você completou e mergulhe nos comentários de outros alunos para tomar decisões educadas.
 
@@ -18,3 +19,15 @@ Destaques Especiais: 🌟 Fique de olho em cursos premium que ocasionalmente ofe
 Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional sem limites. O aprendizado transformador está a um clique de distância! 🚀🎓
 
 
+# - Informatica básica:
+https://encurtador.com.br/FPQ07 (Pensar Cursos)
+https://encurtador.com.br/ejvBR (Plataforma IFRS ead)
+https://encurtador.com.br/crxT0 (Plataforma Cursa)
+
+
+# - Fundamentos hardware e software:
+https://encurtador.com.br/frxN4 (Fundação Bradesco)
+https://abre.ai/gxsj (Plataforma Pensar cursos)
+
+# - Introdução a programação:
+https://abre.ai/gxsp (Geração Crescer)
