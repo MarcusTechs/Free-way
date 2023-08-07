@@ -118,4 +118,9 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 
 ---
 
+### ▶️ Scrum
+- [Scrum Fundamentals Certified](https://www.scrumstudy.com/portuguese/register)
+
+---
+
 ## MAIS CURSOS EM BREVE...
