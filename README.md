@@ -103,7 +103,7 @@ Sua contribuição será fundamental para o desenvolvimento dessa plataforma que
 - [Fundamentos Marketing Digital - Google Atelie](https://skillshop.exceedlms.com/student/collection/730709-digital-marketing)
 - [Marketing digital para sua empresa - Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/marketing-digital-para-sua-empresa-equipe-comercial,12e7125576a4e710VgnVCM100000d701210aRCRD)
 - [Trade marketing](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/trade-marketing,90fea2a16b76e710VgnVCM100000d701210aRCRD)
-- [Trafego pago-NuvemShop](https://trilhas.nuvemshop.com.br/fazer-seu-negocio-crescer/curso-de-trafego-pago)
+- [Trafego pago - NuvemShop](https://trilhas.nuvemshop.com.br/fazer-seu-negocio-crescer/curso-de-trafego-pago)
 
 ---
 
