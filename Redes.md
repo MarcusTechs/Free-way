@@ -7,6 +7,7 @@
 | **Rede de computadores** | Curso em video | [Link](https://www.cursoemvideo.com/curso/redes-de-computadores/) | 8 Horas |
 | **Introdução a redes** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/introducao-a-redes-de-computadores) | 15 Horas |
 | **Introdução ao roteamento** | Intelbras Itec | [link](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MTY3Jmt0X2RpZGF4aXM9dG9w) | 6 Horas|
+| **Fundamentos em redes** | IBSEC | [Link](https://certs.ibsec.com.br/certificacao/certificacao-ibsec-fundamentos-em-redes-100-gratuita/) | 4 Horas |
 
 <h2>
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/acf846e0-3228-43fa-b024-810ae51fc25c" alt="Gpon" width="30px" style="vertical-align: middle;"> EPON e GPON
