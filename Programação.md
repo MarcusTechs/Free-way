@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/f4e87b3f-cbcb-4695-81df-617c2188d635" alt="Java" width="30px" style="vertical-align: middle;"> Lógica de programação
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/5e4f6c64-39a2-4ee9-a6fb-cccb7e5ab72a" alt="Java" width="30px" style="vertical-align: middle;"> Lógica de programação
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -8,7 +8,7 @@
 | **LÓGICA DE PROGRAMAÇÃO FUNDAMENTOS** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) | 15 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/28a600e7-1065-4c06-8f19-10606024aee3" alt="Java" width="30px" style="vertical-align: middle;"> Java
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/1404a76e-d743-4fa5-89ce-6372ed3912ac" alt="Java" width="30px" style="vertical-align: middle;"> Java
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -20,7 +20,7 @@
 | **INTRODUÇÃO A JAVA** | Coursera | [Link](https://www.coursera.org/learn/introduccion-java) | 29 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/14314f3f-38bb-4b40-ba88-6384ab721e1e" alt="Web" width="30px" style="vertical-align: middle;"> Web
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/b5e00395-0db4-46f6-aaba-c8868ca0ef74" alt="Web" width="30px" style="vertical-align: middle;"> Web
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -32,7 +32,7 @@
 | **HTML 5** | Free code | [Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | 40 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/e196743a-5bfa-4401-9ca8-cff5c5ffe321" alt="PYTHON" width="30px" style="vertical-align: middle;"> Python
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/503fd852-0447-41d6-b3df-e3fabb6a194f" alt="PYTHON" width="30px" style="vertical-align: middle;"> Python
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
