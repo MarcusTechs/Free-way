@@ -1,3 +1,6 @@
+[![Voltar](https://img.shields.io/badge/Voltar-black?style=for-the-badge&logo=home)](https://github.com/MarcusTechs/Free-way/blob/main/README.md)
+
+
 <h2>
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/16e668cc-1aa9-4acc-969b-f5ffff162c78" alt="Redes" width="30px" style="vertical-align: middle;"> Rede de computadores
 </h2>
