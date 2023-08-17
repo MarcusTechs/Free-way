@@ -48,15 +48,15 @@
 
 [![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://github.com/MarcusTechs/Free-way/blob/main/Marketing.md)
 [![Design](https://img.shields.io/badge/Orat%C3%B3ria-darkblue?style=for-the-badge&logo=wechat)](https://github.com/MarcusTechs/Free-way/blob/main/Oratoria.md)
-[![Design](https://img.shields.io/badge/Midias%20Sociais-darkblue?style=for-the-badge&logo=instagram)](https://github.com/MarcusTechs/Free-way/blob/main/MidiasSociais.md)
+[![Design](https://img.shields.io/badge/Midias%20Sociais%20(Em%20Breve)-darkblue?style=for-the-badge&logo=instagram)](https://github.com/MarcusTechs/Free-way/blob/main/MidiasSociais.md)
 
 <br>
 
 ### 🔹 Idiomas
 
 [![Design](https://img.shields.io/badge/Ingl%C3%AAs-610B5E?style=for-the-badge&logo=ghost)](https://github.com/MarcusTechs/Free-way/blob/main/Ingles.md)
-[![Design](https://img.shields.io/badge/Italiano-610B5E?style=for-the-badge&logo=ghost&logoColor=red)](https://github.com/MarcusTechs/Free-way/blob/main/Italiano.md)
-[![Design](https://img.shields.io/badge/Espanhol-610B5E?style=for-the-badge&logo=ghost&logoColor=yellow)](https://github.com/MarcusTechs/Free-way/blob/main/Espanhol.md)
+[![Design](https://img.shields.io/badge/Italiano%20(Em%20Breve)-610B5E?style=for-the-badge&logo=ghost&logoColor=red)](https://github.com/MarcusTechs/Free-way/blob/main/Italiano.md)
+[![Design](https://img.shields.io/badge/Espanhol%20(Em%20Breve)-610B5E?style=for-the-badge&logo=ghost&logoColor=yellow)](https://github.com/MarcusTechs/Free-way/blob/main/Espanhol.md)
 
 <br>
 
