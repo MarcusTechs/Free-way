@@ -1,3 +1,6 @@
+[![Voltar](https://img.shields.io/badge/Voltar-black?style=for-the-badge&logo=home)](https://github.com/MarcusTechs/Free-way/blob/main/README.md)
+
+
 <h2>
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/6e98d8fd-83e3-4566-8e92-0d9d2a8325b6" alt="Projetos" width="50px" style="vertical-align: middle;"> Excel
 </h2>
