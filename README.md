@@ -38,9 +38,9 @@
 [![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a%20(Em%20Breve)-black?style=for-the-badge&logo=Kalilinux)](https://github.com/MarcusTechs/Free-way/blob/main/Cibersegurança.md)
 [![Informática](https://img.shields.io/badge/informatica-black?style=for-the-badge&logo=windows)](https://github.com/MarcusTechs/Free-way/blob/main/Informatica.md)
 [![Office](https://img.shields.io/badge/Office-black?style=for-the-badge&logo=microsoftoffice)](https://github.com/MarcusTechs/Free-way/blob/main/Office.md)
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/MarcusTechs/Free-way/blob/main/Linux.md)
+[![Linux](https://img.shields.io/badge/Linux%20(Em%20Breve)-black?style=for-the-badge&logo=Linux)](https://github.com/MarcusTechs/Free-way/blob/main/Linux.md)
 [![Redes](https://img.shields.io/badge/Redes-black?style=for-the-badge&logo=Cloudflare)](https://github.com/MarcusTechs/Free-way/blob/main/Redes.md)
-[![Design](https://img.shields.io/badge/Design-black?style=for-the-badge&logo=adobePhotoshop)](https://github.com/MarcusTechs/Free-way/blob/main/Design.md)
+[![Design](https://img.shields.io/badge/Design%20(Em%20Breve)-black?style=for-the-badge&logo=adobePhotoshop)](https://github.com/MarcusTechs/Free-way/blob/main/Design.md)
 
 <br>
 
