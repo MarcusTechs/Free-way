@@ -1,127 +1,87 @@
-# 🏆Free-way🏆
-Bem-vindo ao FreeWay! Aqui, a educação é gratuita e ilimitada! 🌟 Descubra nossa eclética seleção de cursos online sem custo algum, projetados para enriquecer sua mente e aprimorar suas habilidades. 🧠💪
+<p align="center">
+ <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/5bebb4c9-41ea-4978-bbce-c1b0936fa66e" alt="Bem-vindo ao FreeWay! cursos gratuitos com certificado!"></a>
+</p>
 
+<h3 align="center">Bem-vindo ao FreeWay! cursos gratuitos com certificado!</h3>
 
-# Objetivo:
-No FreeWay, nosso objetivo é simples e inspirador: tornar o aprendizado acessível para todos, em qualquer lugar. Acreditamos que o conhecimento é um direito fundamental, não um privilégio, e estamos empenhados em ajudá-lo a trilhar seu próprio caminho educacional, sem barreiras financeiras. 🌎📖
+<div align="center">
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/marcus-erick-874bba268/)
+  [![Status](https://img.shields.io/badge/status-ativo-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/marcustechs/free-way.svg)](https://github.com/MarcusTechs/Free-way)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/marcustechs/free-way.svg)](https://github.com/MarcusTechs/Free-way)
+  [![License](https://img.shields.io/badge/licença-MIT-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-# Recursos:
+<!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
 
-Variedade de Cursos: 📋 Explore nossa lista de cursos gratuitos, criando um caminho na área da tecnologia.
-
-Certificado: ✔️ Todos os cursos citados tem certificado gratuito.
-
-Avaliações e Feedback: 🗣️ Compartilhe suas avaliações sobre cursos que você completou e mergulhe nos comentários de outros alunos para tomar decisões educadas.
-
-Destaques Especiais: 🌟 Fique de olho em cursos premium que ocasionalmente oferecemos gratuitamente por um período limitado. Uma oportunidade imperdível!
-
-Junte-se à comunidade FreeWay agora mesmo e embarque na sua jornada educacional sem limites. O aprendizado transformador está a um clique de distância! 🚀🎓
-
-
-## Seja Parte do Nosso Projeto 🌱
-Estamos prestes a lançar nossa própria plataforma de cursos gratuitos! Se você enxerga valor nisso, considere apoiar financeiramente através do Pix: marcusertech@gmail.com
-
-Sua contribuição será fundamental para o desenvolvimento dessa plataforma que está nascendo para beneficiar a todos. Junte-se a nós nessa jornada de aprendizado e compartilhamento de conhecimento! 🚀
+</div>
 
 ---
 
-# Cursos
-
-
-### 📚 Cursos de Informática Básica:
-
-- [Plataforma IFRS EAD](https://moodle.ifrs.edu.br/login/index.php)
-- [Plataforma Cursa](https://cursa.com.br/home/course/curso-de-inform%C3%A1tica-b%C3%A1sica-completo/33)
+<p align = "center">💡 Bem-vindo ao FreeWay! Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
+<p align = "center">💼Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
+<p align = "center">❓Não achou sua área/curso desejado? abra um issue ou me mande mensagem no linkedin.</p>
+<p align = "center">🌍Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
+<p align = "center">✔️Certificado:Todos os cursos tem certificado gratuito.</p>
 
 ---
 
-### 💻 Fundamentos Hardware e Software:
+<h1 align="center">
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;"> Cursos
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;">
+</h1>
 
-- [Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software)
-- [Hardware - Curso em video](https://www.cursoemvideo.com/curso/hardware/)
 
----
+### 🔹 Tecnologia
 
-### 👨‍💻 Introdução à Programação:
+[![Programação](https://img.shields.io/badge/Programa%C3%A7%C3%A3o-black?style=for-the-badge&logo=scala)](https://github.com/MarcusTechs/Free-way/blob/main/Programa%C3%A7%C3%A3o.md)
+[![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-black?style=for-the-badge&logo=Kalilinux)](https://github.com/MarcusTechs/Free-way/blob/main/Cibersegurança.md)
+[![Informática](https://img.shields.io/badge/informatica-black?style=for-the-badge&logo=windows)](https://www.python.org/)
+[![Office](https://img.shields.io/badge/Office-black?style=for-the-badge&logo=microsoftoffice)](https://www.postgresql.org/)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://www.postgresql.org/)
+[![Redes](https://img.shields.io/badge/Redes-black?style=for-the-badge&logo=Cloudflare)](https://www.postgresql.org/)
+[![Design](https://img.shields.io/badge/Design-black?style=for-the-badge&logo=adobePhotoshop)](https://www.postgresql.org/)
 
-- [Geração Crescer](https://cursos.geracaocrescer.org.br/acesso/?_gl=1*mtq5y8*_ga*MjEwMDIzOTA1NS4xNjkxMTQ4MzIw*_ga_LDVM7V2ZPE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..*_ga_ZLXYWEC0TE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..&_ga=2.23555838.510224580.1691148320-2100239055.1691148320)
-- [Fundamentos de Lógica de Programação - Fundação Bradesco](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao)
-- [Analista de Dados - Geração Crescer](https://cursos.geracaocrescer.org.br/acesso/?_gl=1*j0rd0o*_ga*MjEwMDIzOTA1NS4xNjkxMTQ4MzIw*_ga_LDVM7V2ZPE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..*_ga_ZLXYWEC0TE*MTY5MTE1MDg5MS4yLjAuMTY5MTE1MDg5MS4wLjAuMA..&_ga=2.198609899.510224580.1691148320-2100239055.1691148320)
-- [Introdução à Programação - Udacity](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
-- [Fundamentos Full Stack](https://www.udacity.com/course/full-stack-foundations--ud088)
+<br>
 
----
+### 🔸 Marketing e comunicação
 
-### 📊 Cursos de Office (Básico ao Avançado):
+[![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://www.postgresql.org/)
+[![Design](https://img.shields.io/badge/Orat%C3%B3ria-darkblue?style=for-the-badge&logo=wechat)](https://www.postgresql.org/)
+[![Design](https://img.shields.io/badge/Midias%20Sociais-darkblue?style=for-the-badge&logo=instagram)](https://www.postgresql.org/)
 
-- [Excel na Prática - Fundação Bradesco](https://www.ev.org.br/cursos/excel-na-pratica)
-- [Microsoft Excel 2016 Intermediário - Fundação Bradesco](https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario)
-- [Microsoft Excel 2016 Avançado - Fundação Bradesco](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado)
-- [Pacote Office 2016 - Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/pacote-office-2016)
+<br>
 
----
+### 🔹 Idiomas
 
-### 🚀 Programação Avançada
+[![Design](https://img.shields.io/badge/Ingl%C3%AAs-610B5E?style=for-the-badge&logo=ghost)](https://www.postgresql.org/)
+[![Design](https://img.shields.io/badge/Italiano-610B5E?style=for-the-badge&logo=ghost&logoColor=red)](https://www.postgresql.org/)
+[![Design](https://img.shields.io/badge/Espanhol-610B5E?style=for-the-badge&logo=ghost&logoColor=yellow)](https://www.postgresql.org/)
 
-- [Introdução aos Algoritmos de Graduação - Udacity](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
-- [Análise de Dados no Power BI - Fundação Bradesco](https://www.ev.org.br/cursos/analise-de-dados-no-power-bi)
+<br>
 
----
+<h1 align="center">
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/58d597a0-e1a0-4028-a501-a63648b9152e" alt="Café" width="70px" style="vertical-align: middle;">Área do café
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/58d597a0-e1a0-4028-a501-a63648b9152e" alt="Café" width="70px" style="vertical-align: middle;">
+</h1>
 
-### ☕ Java
 
-- [Java Básico - Fundação Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-basico)
-- [Java - Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-java)
-- [Java Avançado - Bradesco](https://www.ev.org.br/cursos/linguagem-de-programacao-java-avancado)
-- [Desenvolvedor Web Java - Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
-- [Java - 40 Horas - Curso em video](https://www.cursoemvideo.com/curso/java-basico/)
+Bem-vindo à nossa aconchegante "Área do Café"! Aqui, você pode pegar uma xícara virtual de café para apoiar e energizar nosso futuro projeto.
 
----
+Que tipo de café você gostaria hoje? ☕ Selecione uma opção abaixo:
 
-### 🔌 Redes
+- [X] Café Expresso
+- [ ] Cappuccino
+- [ ] Café com Leite
+- [ ] Café Preto
+<br>
+Depois de escolher sua xícara de café, você pode fazer uma doação para nos ajudar a lançar nossa própria plataforma de cursos gratuitos!
 
-- [Introdução a Roteamento - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MTY3Jmt0X2RpZGF4aXM9dG9w)
-- [Redes EPON - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby90cmlsaGFzX3ZpZXcuYXNwJlRyaWxoYUlEPTExNjcma3RfZGlkYXhpcz10b3A=)
-- [Introdução a Redes de Computadores - Fundação Bradesco](https://www.ev.org.br/cursos/introducao-a-redes-de-computadores)
-- [MikroTik para Iniciantes - Redes Brasil](https://www.redesbrasil.com/course/curso-mikrotik-iniciante/)
-- [e-MikroTik Fundamental - Entelco](https://www.entelco.com.br/curso-mikrotik-gratis)
-- [Conheça o Wi-Fi 6 - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MDQ3Jmt0X2RpZGF4aXM9dG9w)
-- [Fundamentos: redes EPON e GPON - Intelbras Itec](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD00NzIzJmt0X2RpZGF4aXM9dG9w)
-- [Rede de computadores - Curso em video](https://www.cursoemvideo.com/curso/redes-de-computadores/)
+Se você enxerga valor nisso, considere apoiar financeiramente!!
 
----
+<br>
 
-### 📊 SQL
+[![Doar com PIX](https://img.shields.io/badge/Doar%20com-PIX-purple.svg?style=for-the-badge)](https://nubank.com.br/pagar/ps11e/TtQvCJcSXP)
 
-- [SQL Básico ao Avançado - Bluesoft](https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS)
 
----
 
-### 📈 Marketing Digital
-
-- [Fundamentos Marketing Digital - Google Atelie](https://skillshop.exceedlms.com/student/collection/730709-digital-marketing)
-- [Marketing digital para sua empresa - Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/marketing-digital-para-sua-empresa-equipe-comercial,12e7125576a4e710VgnVCM100000d701210aRCRD)
-- [Trade marketing](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/trade-marketing,90fea2a16b76e710VgnVCM100000d701210aRCRD)
-- [Trafego pago - NuvemShop](https://trilhas.nuvemshop.com.br/fazer-seu-negocio-crescer/curso-de-trafego-pago)
-
----
-
-### 💼 Administração / Financeiro
-
-- [Equilíbrio Fiscal](https://www.escolavirtual.gov.br/curso/261)
-- [Matemática Financeira](https://www.escolavirtual.gov.br/curso/93)
-
----
-
-### 🌐 Inglês
-- [Inglês Completo - kultivi](https://kultivi.com/cursos/idiomas/ingles)
-
----
-
-### ▶️ Scrum
-- [Scrum Fundamentals Certified](https://www.scrumstudy.com/portuguese/register)
-
----
-
-## MAIS CURSOS EM BREVE...
