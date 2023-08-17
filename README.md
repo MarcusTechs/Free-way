@@ -60,6 +60,13 @@
 
 <br>
 
+#### 🔸 Cursos Udemy gratuitos
+
+[![Udemy](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy&logoColor=white&color=purple)](https://github.com/MarcusTechs/Free-way/blob/main/Udemy.md)
+
+
+<br>
+
 <h1 align="center">
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/58d597a0-e1a0-4028-a501-a63648b9152e" alt="Café" width="70px" style="vertical-align: middle;">Área do café
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/58d597a0-e1a0-4028-a501-a63648b9152e" alt="Café" width="70px" style="vertical-align: middle;">
