@@ -42,3 +42,13 @@
 | **Algebra com python** | Free code | [Link](https://www.freecodecamp.org/learn/college-algebra-with-python/) | ? |
 | **Python estrutura de dados** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados) | 10 Horas |
 | **Python data science** | Free code | [Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | ? |
+
+
+
+<h2>
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/2090d8a5-2f54-4fae-98fe-3388bc8ee620" alt="sql" width="30px" style="vertical-align: middle;"> SQL
+</h2>
+
+| **Nome** | **Plataforma** | **Link** | **Horas** |
+| --- | --- | --- | --- |
+| **SQL básico ao avançado** | BlueSoft | [Link](https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS) | 30 Horas |
