@@ -36,27 +36,27 @@
 
 [![Programação](https://img.shields.io/badge/Programa%C3%A7%C3%A3o-black?style=for-the-badge&logo=scala)](https://github.com/MarcusTechs/Free-way/blob/main/Programa%C3%A7%C3%A3o.md)
 [![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-black?style=for-the-badge&logo=Kalilinux)](https://github.com/MarcusTechs/Free-way/blob/main/Cibersegurança.md)
-[![Informática](https://img.shields.io/badge/informatica-black?style=for-the-badge&logo=windows)](https://www.python.org/)
-[![Office](https://img.shields.io/badge/Office-black?style=for-the-badge&logo=microsoftoffice)](https://www.postgresql.org/)
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://www.postgresql.org/)
-[![Redes](https://img.shields.io/badge/Redes-black?style=for-the-badge&logo=Cloudflare)](https://www.postgresql.org/)
-[![Design](https://img.shields.io/badge/Design-black?style=for-the-badge&logo=adobePhotoshop)](https://www.postgresql.org/)
+[![Informática](https://img.shields.io/badge/informatica-black?style=for-the-badge&logo=windows)](https://github.com/MarcusTechs/Free-way/blob/main/Informatica.md)
+[![Office](https://img.shields.io/badge/Office-black?style=for-the-badge&logo=microsoftoffice)]([https://www.postgresql.org/](https://github.com/MarcusTechs/Free-way/blob/main/Office.md))
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/MarcusTechs/Free-way/blob/main/Linux.md)
+[![Redes](https://img.shields.io/badge/Redes-black?style=for-the-badge&logo=Cloudflare)](https://github.com/MarcusTechs/Free-way/blob/main/Redes.md)
+[![Design](https://img.shields.io/badge/Design-black?style=for-the-badge&logo=adobePhotoshop)](https://github.com/MarcusTechs/Free-way/blob/main/Design.md)
 
 <br>
 
 ### 🔸 Marketing e comunicação
 
-[![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://www.postgresql.org/)
-[![Design](https://img.shields.io/badge/Orat%C3%B3ria-darkblue?style=for-the-badge&logo=wechat)](https://www.postgresql.org/)
-[![Design](https://img.shields.io/badge/Midias%20Sociais-darkblue?style=for-the-badge&logo=instagram)](https://www.postgresql.org/)
+[![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://github.com/MarcusTechs/Free-way/blob/main/MarketingDigital.md)
+[![Design](https://img.shields.io/badge/Orat%C3%B3ria-darkblue?style=for-the-badge&logo=wechat)](https://github.com/MarcusTechs/Free-way/blob/main/Oratoria.md)
+[![Design](https://img.shields.io/badge/Midias%20Sociais-darkblue?style=for-the-badge&logo=instagram)](https://github.com/MarcusTechs/Free-way/blob/main/MidiasSociais.md)
 
 <br>
 
 ### 🔹 Idiomas
 
-[![Design](https://img.shields.io/badge/Ingl%C3%AAs-610B5E?style=for-the-badge&logo=ghost)](https://www.postgresql.org/)
-[![Design](https://img.shields.io/badge/Italiano-610B5E?style=for-the-badge&logo=ghost&logoColor=red)](https://www.postgresql.org/)
-[![Design](https://img.shields.io/badge/Espanhol-610B5E?style=for-the-badge&logo=ghost&logoColor=yellow)](https://www.postgresql.org/)
+[![Design](https://img.shields.io/badge/Ingl%C3%AAs-610B5E?style=for-the-badge&logo=ghost)](https://github.com/MarcusTechs/Free-way/blob/main/Ingles.md)
+[![Design](https://img.shields.io/badge/Italiano-610B5E?style=for-the-badge&logo=ghost&logoColor=red)](https://github.com/MarcusTechs/Free-way/blob/main/Italiano.md)
+[![Design](https://img.shields.io/badge/Espanhol-610B5E?style=for-the-badge&logo=ghost&logoColor=yellow)](https://github.com/MarcusTechs/Free-way/blob/main/Espanhol.md)
 
 <br>
 
