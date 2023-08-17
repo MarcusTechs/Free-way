@@ -46,7 +46,7 @@
 
 ### 🔸 Marketing e comunicação
 
-[![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://github.com/MarcusTechs/Free-way/blob/main/MarketingDigital.md)
+[![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://github.com/MarcusTechs/Free-way/blob/main/Marketing.md)
 [![Design](https://img.shields.io/badge/Orat%C3%B3ria-darkblue?style=for-the-badge&logo=wechat)](https://github.com/MarcusTechs/Free-way/blob/main/Oratoria.md)
 [![Design](https://img.shields.io/badge/Midias%20Sociais-darkblue?style=for-the-badge&logo=instagram)](https://github.com/MarcusTechs/Free-way/blob/main/MidiasSociais.md)
 
