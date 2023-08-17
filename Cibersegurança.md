@@ -1,3 +1,6 @@
+[![Voltar](https://img.shields.io/badge/Voltar-black?style=for-the-badge&logo=home)](https://github.com/MarcusTechs/Free-way/blob/main/README.md)
+
+
 <h2>
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/14785067-8450-4307-9a8b-c7945452bcc4" alt="cibersegurança" width="40px" style="vertical-align: middle;"> Cibersegurança
 </h2>
