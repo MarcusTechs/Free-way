@@ -1,3 +1,7 @@
+[![Voltar](https://img.shields.io/badge/Voltar-black?style=for-the-badge&logo=home)](https://github.com/MarcusTechs/Free-way/blob/main/README.md)
+
+
+
 <h2>
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/6e96d435-41c8-4d54-8785-44ac159998f9" alt="Java" width="30px" style="vertical-align: middle;"> Informática Básica
 </h2>
