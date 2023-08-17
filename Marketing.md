@@ -1,3 +1,7 @@
+[![Voltar](https://img.shields.io/badge/Voltar-black?style=for-the-badge&logo=home)](https://github.com/MarcusTechs/Free-way/blob/main/README.md)
+
+
+
 <h2>
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/56a31266-182b-4fcd-996b-c4d8f8189ebd" alt="PYTHON" width="40px" style="vertical-align: middle;"> Marketing Digital
 </h2>
