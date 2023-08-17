@@ -4,6 +4,6 @@
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
 | --- | --- | --- | --- |
-| Excel na Prática | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/excel-na-pratica) | 16 Horas |
-| Microsoft Excel 2016 Intermediário | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario) | 20 Horas |
-| Microsoft Excel 2016 Avançado | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado) | 30 Horas |
+| **Excel na Prática** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/excel-na-pratica) | 16 Horas |
+| **Microsoft Excel 2016 Intermediário** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/microsoft-excel-2016-intermediario) | 20 Horas |
+| **Microsoft Excel 2016 Avançado** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/microsoft-excel-2016-avancado) | 30 Horas |
