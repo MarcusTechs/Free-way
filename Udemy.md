@@ -3,15 +3,13 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/bcb1fb7e-fa06-4337-be0e-1a8e45d70f8d" alt="Design" width="80px" style="vertical-align: middle;"> Discudemy
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/bcb1fb7e-fa06-4337-be0e-1a8e45d70f8d" alt="Design" width="80px" style="vertical-align: middle;"> Udemy
 </h2>
 
 | **Nome** | **Plataforma** | **Link** |
 | --- | --- | --- | 
-| **Plataforma de cursos da udemy gratuitos** | Discudemy | [Link](https://www.discudemy.com/?ref) | 
+| **Plataforma de cursos da udemy gratuitos** | Discudemy | [Link](https://www.udemy.com/courses/search/?price=price-free&q=cursos+gratu%C3%ADtos&sort=relevance&src=sac) | 
 
-- Cursos que estão gratuitos na UDEMY por tempo limitado(Com certificado)
-- Grande maioria em inglês, alguns com legenda em português.
-- Plataforma discudemy
+- Cursos gratuitos da platafroma Udemy, alguns com certificado!
 
 
