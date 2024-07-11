@@ -55,4 +55,4 @@
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
 | --- | --- | --- | --- |
-| **Implementando Banco de Dados** | BlueSoft | [Link](https://www.ev.org.br/cursos/implementando-banco-de-dados) | 15 Horas |
+| **Implementando Banco de Dados** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/implementando-banco-de-dados) | 15 Horas |
