@@ -76,10 +76,10 @@
 
 ### 💠 Certificações na área da tecnologia
 
-[![Em breve..](https://img.shields.io/badge/Em%20Breve...-black?style=for-the-badge&logo=scala)]()
+[![Em breve..](https://img.shields.io/badge/Em%20Breve...-red?style=for-the-badge&logo=scala)]()
 
 ### 💠 Outras certificações
-[![Em breve..](https://img.shields.io/badge/Em%20Breve...-black?style=for-the-badge&logo=scala)]()
+[![Em breve..](https://img.shields.io/badge/Em%20Breve...-red?style=for-the-badge&logo=scala)]()
 
 <br>
 
