@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/5bebb4c9-41ea-4978-bbce-c1b0936fa66e" alt="Bem-vindo ao FreeWay! cursos gratuitos com certificado!"></a>
+ <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/2212b003-f5cd-46cf-8f5b-2f58511d2904" alt="Bem-vindo ao FreeWay! cursos gratuitos com certificado!"></a>
 </p>
 
 <h3 align="center">Bem-vindo ao FreeWay! cursos gratuitos com certificado!</h3>
