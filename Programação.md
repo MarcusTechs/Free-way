@@ -56,3 +56,4 @@
 | **Nome** | **Plataforma** | **Link** | **Horas** |
 | --- | --- | --- | --- |
 | **Implementando Banco de Dados** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/implementando-banco-de-dados) | 15 Horas |
+| **MySql** | Curso em video | [Link](https://www.cursoemvideo.com/curso/mysql/) | 40 Horas |
