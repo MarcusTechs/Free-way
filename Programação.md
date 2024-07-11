@@ -55,4 +55,4 @@
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
 | --- | --- | --- | --- |
-| **SQL básico ao avançado** | BlueSoft | [Link](https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS) | 30 Horas |
+| **Implementando Banco de Dados** | BlueSoft | [Link](https://www.ev.org.br/cursos/implementando-banco-de-dados) | 15 Horas |
