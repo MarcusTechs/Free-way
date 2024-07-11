@@ -67,6 +67,30 @@
 
 <br>
 
+
+<h1 align="center">
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/1bc78ebb-008f-4a78-b25d-398073e001be" alt="Café" width="40px" style="vertical-align: middle;"> Certificações
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/1bc78ebb-008f-4a78-b25d-398073e001be" alt="Café" width="40px" style="vertical-align: middle;">
+</h1>
+
+
+### 💠 Certificações na área da tecnologia
+
+[![Em breve..](https://img.shields.io/badge/Em%20Breve...-black?style=for-the-badge&logo=scala)]()
+
+### 💠 Outras certificações
+[![Em breve..](https://img.shields.io/badge/Em%20Breve...-black?style=for-the-badge&logo=scala)]()
+
+<br>
+
+---
+<br>
+
+<br>
+<br>
+<br>
+
+
 <h1 align="center">
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/58d597a0-e1a0-4028-a501-a63648b9152e" alt="Café" width="70px" style="vertical-align: middle;">Área do café
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/58d597a0-e1a0-4028-a501-a63648b9152e" alt="Café" width="70px" style="vertical-align: middle;">
